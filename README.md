@@ -23,8 +23,8 @@ To run:
 Here, 20x4.csv refers to the file name of the older list of polling places (in this case 'VIC2014_PollingPlaces.csv') while 20x8.csv refers to the new list of polling places (in this case 'VIC2018_PollingPlaces.csv')
 * The script must be in the same directory as the polling place files
 * The polling place files must have the following columns in the same order:
-** Electorate - PollingPlaceName - Address - Locality
+  * Electorate - PollingPlaceName - Address - Locality
         
 To make the results more meaningful, find and replace in both files (using Excel, etc.) common words that are typically shortened, especially street suffixes 
 * e.g. 'Street' -> 'St', 'Avenue' -> 'Ave', 'corner' -> 'cnr'
-* The more common ones have been handled, but there are too many cases to cover them exhaustively
+  * The more common ones have been handled, but there are too many cases to cover them exhaustively.
