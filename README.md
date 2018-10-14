@@ -1,5 +1,5 @@
 # VIC-Polling-Place-Validator
-Written by Kevin Gatdula (@kevinofsydney) for Antony Green (@AntonyGreenABC), assisting with the 2018 Victoria State Election 
+Written by Kevin Gatdula (@kevinofsydney) for Antony Green (@AntonyGreenABC) to assist with the 2018 Victoria State Election.
 
 The script detects polling places whose venues or addresses have changed since the last State election.
 
